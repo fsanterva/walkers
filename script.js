@@ -1,0 +1,2 @@
+// create simple javascript chatbox
+
